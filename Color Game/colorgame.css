@@ -78,3 +78,15 @@ button:hover {
     background: lightseagreen;
     color: white;
 }
+
+h3 {
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    width: 50%;
+    padding-top: 400px;
+}
