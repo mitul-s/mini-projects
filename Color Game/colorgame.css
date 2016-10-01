@@ -1,0 +1,25 @@
+body {
+    background-color: #232323;
+}
+
+.square {
+    width: 30%;
+    background: white;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+#container {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+#gameTitle {
+    color: white;
+    text-align: center;
+}
+
+span {
+    color: white;
+}
