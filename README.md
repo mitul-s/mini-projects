@@ -1,6 +1,7 @@
-# Mini JavaScript Projects 
+Welcome to Practical JavaScript!
+============================
 
-Various projects I've completed to stregthen my HTML/CSS & JavaScript skills.
+This is the finished code for Version 9 of the
+application for Practical JavaScript.
 
-<b>Colour Game</b>
-  The purpose of this game is for the user to select the right colour depending on the RGB colour provided.
+For more details, visit practicaljavascript.net.
